@@ -1,4 +1,4 @@
-### Hello there 👋
+<h1 align="center">Hello there 👋</h1>
 
 <!--
 **Veik1/Veik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning: JavaScript
-- 💻 Favourite Language: SQL & JavaScript
-- 💙 I love: Turtles
-- 💬 idk wtf im doing
+- 🌱 `I'm currently learning:` **JavaScript**
+- 💻 `Favourite Language:` **SQL & JavaScript**
+- 💙 `I love:` **Turtles**
+- 💬 **idk wtf im doing**
