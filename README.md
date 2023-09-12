@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 `I'm currently learning:` **JavaScript**
-- 💻 `Favourite Language:` **SQL & JavaScript**
+- 💻 `Favorite Language:` **SQL & JavaScript**
 - 💙 `I love:` **Turtles**
 - 💬 **idk wtf im doing**
 
