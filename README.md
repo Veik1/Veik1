@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 `I'm currently learning:` 
+- 🔭 `I’m currently working on UNPAZ` 
+- 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
-- 💙 `I love:` **Turtles**
-- 💬 **In the end what separates a man from a slave? Money? Power? No, a man chooses, and a slave obeys!**
+- 💙 `I love:` **Turtles, drinkin' Coffee, and reading Mangas**
 
 <h1 align="center">Skills</h1>
 <h4 align="center">💻 Programming Languages (+HTML/CSS)</h4>
