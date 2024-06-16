@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 `I'm currently learning:` ** **
+- 🌱 `I'm currently learning:` 
 - 💻 `Favorite Language:` **Node.js**
 - 💙 `I love:` **Turtles**
 - 💬 **idk wtf im doing**
