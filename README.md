@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 `I'm currently learning:` 
 - 💻 `Favorite Language:` **Java**
 - 💙 `I love:` **Turtles**
-- 💬 **idk wtf im doing**
+- 💬 **In the end what separates a man from a slave? Money? Power? No, a man chooses, and a slave obeys!**
 
 <h1 align="center">Skills</h1>
 <h4 align="center">💻 Programming Languages (+HTML/CSS)</h4>
