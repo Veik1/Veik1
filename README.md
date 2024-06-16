@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 `I'm currently learning:` **Java**
-- 💻 `Favorite Language:` **SQL & JavaScript**
+- 🌱 `I'm currently learning:` ** **
+- 💻 `Favorite Language:` **Node.js**
 - 💙 `I love:` **Turtles**
 - 💬 **idk wtf im doing**
 
 <h1 align="center">Skills</h1>
-<h4 align="center">💻 Languages</h4>
+<h4 align="center">💻 Programming Languages (+HTML/CSS)</h4>
 <p align="center">
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
