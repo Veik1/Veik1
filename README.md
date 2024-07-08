@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💙 `I love:` **Turtles, drinkin' Coffee, and reading Mangas**
 
 <h1 align="center">Skills</h1>
-<h4 align="center">💻 Programming Languages (+HTML/CSS)</h4>
+<h4 align="center">💻 Languages</h4>
 <p align="center">
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
