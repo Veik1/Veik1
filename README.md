@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 `I’m currently working on UNPAZ` 
+- 🔭 `Technical Support`
+- 🔭 `Technological Infrastructure` 
 - 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
 - 💙 `I love:` **Turtles, drinkin' Coffee, and reading Mangas**
