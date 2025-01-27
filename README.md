@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 `Technical Support`
-- 🔭 `Technological Infrastructure` 
 - 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
 - 💙 `I love:` **Turtles, drinkin' Coffee, and reading Mangas**
