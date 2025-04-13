@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
-- 💙 `I love:` **Turtles, drinkin' Coffee, and reading Mangas**
+- 💙 `I love:` **Turtles, drinkin' Coffee, and read Mangas**
 
 <h1 align="center">Skills</h1>
 <h4 align="center">💻 Languages</h4>
