@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 `I’m currently learning:` Vue.js
 - 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
-- 💙 `I love:` **Turtles, drinkin' Coffee, and read Mangas**
+- ❤ `I love:` **Turtles**
+- 🤎 `Favorite drink:` **Coffee**
 
 <h1 align="center">Skills</h1>
 <h4 align="center">💻 Languages</h4>
