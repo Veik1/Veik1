@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 `I’m currently learning:` Vue.js
+- 🌱 `I’m currently learning:` **Vue.js**
 - 🌱 `I would like to learn:` **React, maybe** 
 - 💻 `Favorite Language:` **Java**
 - ❤ `I love:` **Turtles**
