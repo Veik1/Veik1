@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white"></a>
 <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 <h4 align="center">⚙ Software</h4>
 <p align="center">
 <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
