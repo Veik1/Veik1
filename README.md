@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 `I’m currently learning:` **Vue.js**
-- 🌱 `I would like to learn:` **Django, maybe** 
+- 🌱 `I would like to learn:` **Angular** 
 - 💻 `Favorite Language:` **Java**
 - ❤ `I love:` **Turtles**
 - 🤎 `Favorite drink:` **Coffee**
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
 <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
 </p>
@@ -63,4 +64,10 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<h4 align="center">☁ Cloud & Providers</h4>
+<p align="center">
+<a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
