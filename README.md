@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
