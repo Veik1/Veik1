@@ -82,3 +82,11 @@ Here are some ideas to get you started:
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
+### <p align="center" style="color: #8A2BE2;">📊 GitHub Activity</p>
+
+<p align="center">
+  <a href="https://github.com/w3-briel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veik1&bg_color=161B22&color=BD93F9&line=BD93F9&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
