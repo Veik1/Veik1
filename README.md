@@ -81,4 +81,3 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/proxmox-proxmox?logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33"></a>
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
-
