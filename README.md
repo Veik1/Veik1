@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 `I’m currently learning:` **C#**
+- 🌱 `I’m currently learning:` *React**
 - 🌱 `I would like to learn:` **Angular** 
 - 💻 `Favorite Language:` **Java**
 - ❤ `I love:` **Turtles**
