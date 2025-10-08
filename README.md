@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?logo=yaml&logoColor=151515"></a>
 </p>
 
