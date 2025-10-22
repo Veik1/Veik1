@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
 <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
@@ -67,12 +68,14 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Godot" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?logo=godot-engine"></a>
+<a href="#"><img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
 <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
 <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white"></a>
 <a href="#"><img alt="Kubuntu" src="https://img.shields.io/badge/-KUbuntu-%230079C1?logo=kubuntu&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+<a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
@@ -81,6 +84,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">☁ Cloud & Providers</h4>
 <p align="center">
+<a href="#"><img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/proxmox-proxmox?logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33"></a>
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
